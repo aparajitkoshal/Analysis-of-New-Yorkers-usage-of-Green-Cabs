@@ -1,2 +1,0 @@
-This project is about how New Yorkers in their five boroughs use Green Taxi’s. It gives insights on how New Yorkers travel to JFK airport through explicit data visualization using GeoPandas library. With the help of extensive exploratory data analysis, dimensionality reduction has been performed on the dataset. This has been further used to build a regression model to predict the tip amount as percentage of total fare amount. 
-Interactive plots have also been developed to visualize the movement of New Yorkers that helps in understanding the intra- vs. inter-borough traffic. 
